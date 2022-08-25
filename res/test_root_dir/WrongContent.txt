@@ -1,0 +1,5 @@
+20 28 Gravity Falls
+50 Bravo Mabel
+ 0  0  3  3 Tombstone
+ 6  1  9  7 Kill Devil Hills
+12  4 

@@ -1,0 +1,43 @@
+20 28 Gravity Falls
+50 Bravo Mabel
+Fortune the Cat
+19
+ 0  0  3  3 Tombstone
+ 6  1  9  7 Kill Devil Hills
+12  4 18 12 Skull Valley
+ 7  8 10 13 Seven Devils
+ 2  8  6 12 Deadwood
+ 0 13  2 15 Slaughter Beach
+ 3 13  5 15 Devil's Thumb
+ 6 14 10 17 Devil's Lake
+12 13 15 17 Black Island
+ 0 16  5 19 Sleepy Hollow
+ 7 18 15 21 Scarville
+ 0 20  3 23 Casper
+ 4 22  8 27 Cape Fear
+10  0 11  7 Satan's Kingdom
+12  0 15  3 Devil's Den
+16  0 20  3 West Kill
+16 13 20 17 Black Creek
+ 9 22 12 27 Bat Cave
+16 18 20 24 Vulture City
+19
+7 3 Crepe Pan
+3 2 Letter Opener
+11 2 Shoe Horn
+7 3 Sharp Knife
+0 3 Revolver
+14 3 Civil War Cannon
+1 4 Chain Saw
+15 2 Broom Stick
+18 2 Rat Poison
+5 2 Trowel
+1 4 Big Red Hammer
+6 2 Pinking Shears
+18 3 Duck Decoy
+13 2 Bad Cream
+18 2 Monkey Hand
+11 2 Tight Hat
+18 2 Piece of Rope
+9 3 Silken Cord
+7 2 Loud Noise
