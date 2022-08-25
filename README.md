@@ -6,7 +6,7 @@ This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
 **Email:** zheng.yant@northeastern.edu
 
-**Preferred Name:** Ava
+**Preferred Name:** Mia
 
 
 
