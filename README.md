@@ -1,13 +1,8 @@
-# CS 5010 Semester Project
+# CS5010 Course Project
 
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
-**Name:** Yanting Zheng
-
-**Email:** zheng.yant@northeastern.edu
-
-**Preferred Name:** Mia
-
+**Name:** Mia Zheng
 
 
 ### About/Overview
