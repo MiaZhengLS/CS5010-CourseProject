@@ -2,7 +2,7 @@
 
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
-**Name:** Mia Zheng
+**Author:** Mia Zheng
 
 
 ### About/Overview
